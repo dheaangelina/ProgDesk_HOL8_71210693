@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|d:\\semester 6\\pemrograman dekstop\\mingguan\\pertemuan8\\parkir\\parkir\\formlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\formlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\parkir\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\parkir\\formutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\formutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\parkir\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\parkir\\formlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\formlaporan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\parkir\\formutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\formutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\parkir\\langgananform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\langgananform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\parkir\\langgananform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5F98DDAE-8C75-40CC-ABC3-170038A81893}|Parkir\\Parkir.vbproj|solutionrelative:parkir\\langgananform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 307,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\Parkir\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "Parkir\\DataSet1.xsd",
+              "ToolTip": "D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\Parkir\\DataSet1.xsd",
+              "RelativeToolTip": "Parkir\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-04-23T14:42:40.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report1.rdlc [Design]",
+              "DocumentMoniker": "D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\Parkir\\Report1.rdlc",
+              "RelativeDocumentMoniker": "Parkir\\Report1.rdlc",
+              "ToolTip": "D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\Parkir\\Report1.rdlc [Design]",
+              "RelativeToolTip": "Parkir\\Report1.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-04-23T14:42:06.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "formLaporan.vb",
+              "DocumentMoniker": "D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\Parkir\\formLaporan.vb",
+              "RelativeDocumentMoniker": "Parkir\\formLaporan.vb",
+              "ToolTip": "D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\Parkir\\formLaporan.vb",
+              "RelativeToolTip": "Parkir\\formLaporan.vb",
+              "ViewState": "AQIAABAAAAAAAAAAAAAIwBkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-22T17:41:50.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormUtama.vb",
+              "DocumentMoniker": "D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\Parkir\\FormUtama.vb",
+              "RelativeDocumentMoniker": "Parkir\\FormUtama.vb",
+              "ToolTip": "D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\Parkir\\FormUtama.vb",
+              "RelativeToolTip": "Parkir\\FormUtama.vb",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwGgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T07:33:13.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "formLaporan.vb [Design]",
+              "DocumentMoniker": "D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\Parkir\\formLaporan.vb",
+              "RelativeDocumentMoniker": "Parkir\\formLaporan.vb",
+              "ToolTip": "D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\Parkir\\formLaporan.vb [Design]",
+              "RelativeToolTip": "Parkir\\formLaporan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T14:46:18.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormUtama.vb [Design]",
+              "DocumentMoniker": "D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\Parkir\\FormUtama.vb",
+              "RelativeDocumentMoniker": "Parkir\\FormUtama.vb",
+              "ToolTip": "D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\Parkir\\FormUtama.vb [Design]",
+              "RelativeToolTip": "Parkir\\FormUtama.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T07:33:07.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LanggananForm.vb [Design]",
+              "DocumentMoniker": "D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\Parkir\\LanggananForm.vb",
+              "RelativeDocumentMoniker": "Parkir\\LanggananForm.vb",
+              "ToolTip": "D:\\parkir\\parkir\\LANJUTAN PARKIR\\Parkir\\Parkir\\LanggananForm.vb [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\parkir\\parkir\\LANJUTAN PARKIR\\Parkir\\Parkir\\LanggananForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T10:00:35.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LanggananForm.vb",
+              "DocumentMoniker": "D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\Parkir\\LanggananForm.vb",
+              "RelativeDocumentMoniker": "Parkir\\LanggananForm.vb",
+              "ToolTip": "D:\\Semester 6\\Pemrograman Dekstop\\Mingguan\\Pertemuan8\\Parkir\\Parkir\\LanggananForm.vb",
+              "RelativeToolTip": "Parkir\\LanggananForm.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-23T10:08:44.215Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
